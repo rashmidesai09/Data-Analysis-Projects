@@ -12,7 +12,7 @@ A hobby data analysis project using SQL in python pandas on the most common data
 This folder has project details of Data Analysis performed in Microsoft Excel
 
 ## Data Analysis with Python Pandas
-This folder has details of Rewards credit card data analysis done using Python pandas
+This folder has details of Rewards credit card data analysis and NBA games done using Python pandas
 
 ## Power BI
 This folder has details of sales data insights created using Power BI
