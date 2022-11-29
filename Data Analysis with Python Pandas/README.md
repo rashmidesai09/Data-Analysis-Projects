@@ -10,10 +10,10 @@ The loyalty program partner provide variety of products/offerings/flexible redem
  
 Note : As per the PCI compliance, Bank's do not share the customer data and make it available to public, hence the datasets used in this analysis are dummy datasets and do not contain actual customer data. Also, as the datasets are large in size , the data used here is having limited data with just 500 customers data in excel.
 
-Objective :
-1.Load and examine/subset columns for each individual dataset
-2.Aim is to Reduce the cost by identifying the inactive/legacy/not eligible credit cards in the Bank's loyalty program partner database.
-3.Combine them into a single dataset and export it back to csv.
+### Objective :
+1. Load and examine/subset columns for each individual dataset
+2. Aim is to Reduce the cost by identifying the inactive/legacy/not eligible credit cards in the Bank's loyalty program partner database.
+3. Combine them into a single dataset and export it back to csv.
 
 
 ## Exploring Data (Manipulation) of National Basketball Association (NBA) games from 2004 to 2020
