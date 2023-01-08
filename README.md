@@ -15,5 +15,5 @@ This folder has project details of Data Analysis performed in Microsoft Excel
 This folder has details of Rewards credit card data analysis and NBA games done using Python pandas
 
 ## Power BI
-This folder has details of sales data insights created using Power BI
+This folder has details of Customer Churn Analysis of a Banking dataset created using Power BI
 
