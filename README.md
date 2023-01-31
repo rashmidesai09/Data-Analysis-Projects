@@ -17,3 +17,6 @@ This folder has details of Rewards credit card data analysis and NBA games done 
 ## Power BI
 This folder has details of Customer Churn Analysis of a Banking dataset created using Power BI
 
+## Data Analysis with Spark SQL, PySpark using Databricks
+This folder has details of Exploring Demographic Characteristics and Personal Preferences of People in a Database consisting of 4 tables
+
