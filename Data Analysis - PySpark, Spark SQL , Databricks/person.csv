@@ -1,0 +1,17 @@
+person_id,fname,lname,eye_color,dob,street,city,state,country,postal_code
+1,Chandru,Rathod,BR,1995-02-23,"H1 road",Mumbai,MH,India,23456
+2,Raju,Desai,BL,1993-01-30,Udagiri,Bangalore,KA,India,22356
+3,Rajendra,Diman,BL,1993-01-30,Kengeri,Madikeri,KA,India,21056
+4,Rigan,Thomas,BL,1993-01-30,Udagiri,Hassan,KA,India,22056
+5,John,Doe,BL,1999-01-01,"123 Main St","San Francisco",California,USA,12345
+6,Jane,Smith,GR,1998-02-14,"456 Oak Ave","Los Angeles",California,USA,67890
+7,Michael,Johnson,BR,1997-03-25,"789 Maple St","New York","New York",USA,11111
+8,Emily,Davis,BL,1996-04-16,"111 Pine St",Seattle,Washington,USA,22222
+9,William,Brown,BR,1995-05-27,"222 Cedar Ave",Chicago,Illinois,USA,33333
+10,Brittney,Thomas,BL,1990-10-12,"777 Maple St",Phoenix,Arizona,USA,88888
+11,Sara,Jackson,GR,1989-11-13,"888 Oak Ave","San Diego",California,USA,99999
+12,Adam,White,BR,1988-12-14,"999 Pine St",Dallas,Texas,USA,12345
+13,Ashley,Wilson,GR,1994-06-18,"333 Maple St",Houston,Texas,USA,44444
+14,Brian,Moore,BL,1993-07-19,"444 Oak Ave",Miami,Florida,USA,55555
+15,Megan,Taylor,GR,1992-08-10,"555 Pine St",Atlanta,Georgia,USA,66666
+16,Jason,Anderson,BR,1991-09-11,"666 Cedar Ave",Philadelphia,Pennsylvania,USA,77777
